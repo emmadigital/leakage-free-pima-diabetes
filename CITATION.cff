@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Leakage-Free Diabetes Prediction Pipeline"
+message: "If you use this repository, please cite the associated research article."
+type: software
+
+authors:
+  - family-names: "Soomro"
+    given-names: "Amresha"
+    affiliation: "Altinbas University"
+
+version: 1.0.0
+date-released: 2026-01-01
+
+repository-code: "https://github.com/yourusername/leakage-free-pima-diabetes"
+
+keywords:
+  - diabetes prediction
+  - machine learning
+  - neural networks
+  - reproducibility
+  - data leakage prevention
+
+license: MIT
