@@ -203,7 +203,9 @@ Random seeds used in experiments are included in the scripts to ensure reproduci
 
 The study workflow is illustrated below.
 
-docs/Figure 3.svg
+
+![Workflow Diagram](docs/Figure 3.svg)
+
 
 ```
 docs/Figure 3.svg
@@ -237,4 +239,3 @@ Author Name: Amresha Soomro
 Institution: Altinbas University
 Email: amreshasoomro@gmail.com
 ```
-If you'd like, I can also generate a **`CITATION.cff` file** and **`.gitignore` file** for MATLAB repositories so your GitHub project looks **fully professional and publication-ready**.
