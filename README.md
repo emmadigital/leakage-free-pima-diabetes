@@ -203,9 +203,7 @@ Random seeds used in experiments are included in the scripts to ensure reproduci
 
 The study workflow is illustrated below.
 
-
-![Workflow Diagram](docs/Figure 3.svg)
-
+![Workflow Diagram](https://github.com/emmadigital/leakage-free-pima-diabetes/tree/440ccc17cebe0fb10a5f71cb9854c64f0bab8d58/docs/Figure 3.svg)
 
 ```
 docs/Figure 3.svg
