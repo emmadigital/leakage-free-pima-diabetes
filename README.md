@@ -1,12 +1,3 @@
-Below is a **professional `README.md` template** you can directly place in your GitHub repository root. It is written in a **journal-quality style**, which reviewers appreciate when checking **code availability and reproducibility**.
-
-You can copy this directly into:
-
-```
-README.md
-```
-
----
 
 # Leakage-Free Diabetes Prediction with Reproducible Model Evaluation
 
