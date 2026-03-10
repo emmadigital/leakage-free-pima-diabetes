@@ -1,0 +1,31 @@
+# MATLAB temporary files
+*.asv
+*.m~
+slprj/
+codegen/
+
+# MATLAB binaries
+*.mex*
+*.p
+
+# MATLAB autosave
+*.autosave
+
+# Figures
+*.png
+*.pdf
+*.fig
+
+# Large result files
+results/*.mat
+*.mat
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Backup files
+*~
